@@ -19,6 +19,8 @@ A Maven architype with Java 21 support for facilitate maven project creation.
 [source, bash]
 ----
 mvn clean install
+
+this is main
 ----
 
 . After you do that, you can go to the target directory and perform the following command:
